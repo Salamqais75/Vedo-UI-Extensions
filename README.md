@@ -51,8 +51,8 @@ A full-featured text editor with font, color, size, save/delete options, and und
 
 
 ### Contributors: 
-Salam Qais - salamqais75@gmail.com
 Aisha Abu dahesh - aishadahesh11@gmail.com
+Salam Qais - salamqais75@gmail.com
 
 
 
