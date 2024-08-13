@@ -15,7 +15,7 @@ To install the necessary dependencies, run:
 
 1. **Check Box:**
 A set of selectable options represented as checkboxes.
-  ![alt text](README-rsrc/CheckBox.gif)
+![alt text](README-rsrc/CheckBox.gif)
 
 2. **Combo Box:**
 A dropdown menu for selecting options.
